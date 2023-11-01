@@ -1,0 +1,6 @@
+{
+    if (carrot <= $5){
+        next;
+    }
+    printf("%s\n", $5);
+}
